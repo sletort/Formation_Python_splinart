@@ -12,7 +12,7 @@ The original idea of splinart is found on the great invonvergent website.
 
 If you want to install splinart::
 
-    pip install splpinart
+    pip install splinart
 
 or::
 
