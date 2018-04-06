@@ -1,5 +1,3 @@
-language: python
-
 env:
   - PYVER="2.7"
   - PYVER="3.5"
